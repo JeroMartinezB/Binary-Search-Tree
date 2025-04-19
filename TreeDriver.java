@@ -1,8 +1,3 @@
-// Jeronimo Martinez Barragan
-// CSC 310 
-// 03/09/2025
-// Project 2
-
 import java.io.*;
 import java.util.*;
 
